@@ -2498,11 +2498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khmol\\OneDrive\\Desktop\\My Projects\\Development\\Full-Stack\\Online Store V2\\Assignment3_API\\Assignment3_API\\Assignment3_Backend.csproj",
+      "projectUniqueName": "C:\\Users\\khmol\\OneDrive\\Desktop\\My Projects\\Development\\Full-Stack\\Clothing Inventory\\Backend\\Assignment3_API\\Assignment3_Backend.csproj",
       "projectName": "Assignment3_Backend",
-      "projectPath": "C:\\Users\\khmol\\OneDrive\\Desktop\\My Projects\\Development\\Full-Stack\\Online Store V2\\Assignment3_API\\Assignment3_API\\Assignment3_Backend.csproj",
+      "projectPath": "C:\\Users\\khmol\\OneDrive\\Desktop\\My Projects\\Development\\Full-Stack\\Clothing Inventory\\Backend\\Assignment3_API\\Assignment3_Backend.csproj",
       "packagesPath": "C:\\Users\\khmol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khmol\\OneDrive\\Desktop\\My Projects\\Development\\Full-Stack\\Online Store V2\\Assignment3_API\\Assignment3_API\\obj\\",
+      "outputPath": "C:\\Users\\khmol\\OneDrive\\Desktop\\My Projects\\Development\\Full-Stack\\Clothing Inventory\\Backend\\Assignment3_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\khmol\\AppData\\Roaming\\NuGet\\NuGet.Config",

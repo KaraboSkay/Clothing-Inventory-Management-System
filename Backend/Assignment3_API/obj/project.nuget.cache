@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K8Iwj07O9Cl6kwjJ74Qmbe5pajhCDW58aZOMemq9VvV3XQfoliBf8pbFHjiKdQmJsurzeRh+XeiE5tKC5rJg8w==",
+  "dgSpecHash": "9ssJS5D/Ca29OP71aqAI9tLVTWO/c9tFxU5PAY1+rQEOAv2FR60h/0KuqqiLch5eyhNK/yzvwHeuVqjVV89HgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khmol\\OneDrive\\Desktop\\My Projects\\Development\\Full-Stack\\Online Store V2\\Assignment3_API\\Assignment3_API\\Assignment3_Backend.csproj",
+  "projectFilePath": "C:\\Users\\khmol\\OneDrive\\Desktop\\My Projects\\Development\\Full-Stack\\Clothing Inventory\\Backend\\Assignment3_API\\Assignment3_Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khmol\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\khmol\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
